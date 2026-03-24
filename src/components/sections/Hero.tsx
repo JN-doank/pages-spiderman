@@ -16,6 +16,12 @@ export function Hero() {
         >
           Bahlil Morales
         </h2>
+        <h2
+          className="text-2xl md:text-3xl text-red-300 italic uppercase tracking-wider -mt-1 ml-1"
+          style={{ fontFamily: "'Brush Script MT', cursive" }}
+        >
+          Jansen@dev
+        </h2>
       </div>
       <p className="text-sm md:text-base text-gray-200 leading-relaxed font-light max-w-md opacity-90">
         Experience the rise of Bahlil Morales as the new hero masters
