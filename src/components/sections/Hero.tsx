@@ -16,21 +16,16 @@ export function Hero() {
         >
           Bahlil Morales
         </h2>
-        <h2
-          className="text-2xl md:text-3xl text-red-300 italic uppercase tracking-wider -mt-1 ml-1"
-          style={{ fontFamily: "'Brush Script MT', cursive" }}
-        >
-          Jansen@dev
-        </h2>
+        
       </div>
       <p className="text-sm md:text-base text-gray-200 leading-relaxed font-light max-w-md opacity-90">
-        Experience the rise of Bahlil Morales as the new hero masters
-        incredible, explosive new powers to become his own Spider-Man.
+        Ikuti kisah Bahlil Morales yang sedang naik daun sebagai pahlawan baru yang menguasai
+        kekuatan baru yang luar biasa dan dahsyat untuk menjadi Spider-Man-nya sendiri.
       </p>
       <div className="pt-4">
         <button className="btn-glow bg-white text-black font-bold px-8 py-3.5 rounded-full hover:scale-105 transform transition-all duration-300 shadow-lg shadow-black/30 uppercase tracking-widest text-sm flex items-center gap-2 group cursor-pointer">
           <span className="relative z-10 flex items-center gap-2">
-            Pre-Order Now
+            Mwehehe
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1.5 transition-transform duration-300" />
           </span>
         </button>
